@@ -1,10 +1,10 @@
-# Snake Game 🐍
+# 🐍 Snake Game 
 
 A classic **Snake Game** built with Python's `turtle` module. Eat the food, grow longer, and avoid colliding with walls or yourself!  
 
 ---
 
-## Features
+## 🚀 Features
 
 - Control the snake using **arrow keys** (Up, Down, Left, Right)  
 - Eat food to **grow the snake**  
@@ -13,14 +13,14 @@ A classic **Snake Game** built with Python's `turtle` module. Eat the food, grow
 
 ---
 
-## Tech Stack
+## 🧩 Tech Stack
 
 - **Python 3**  
 - **turtle** module for graphics  
 
 ---
 
-## Setup & Installation
+## 🛠️ Setup & Installation
 
 1. **Clone the repository**:
 
@@ -43,7 +43,7 @@ python main.py
 
 ---
 
-## How to Play
+## 🎮 How to Play
 
 - Use arrow keys to move the snake.
 - Eat the food to gain points and grow longer.
